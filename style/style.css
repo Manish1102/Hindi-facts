@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    width: 100%;
+    height: auto;
+    background-size: 200%;
+    color: white;
+    border-color: black;
+    
+}
+.Head2{
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navigation{
+    background-color: gray;
+}
+.imglogo{
+    width: 10%;
+    height: auto;
+    border-radius: 80%;
+
+}
+.Songthumbnail{
+    width: 20%;
+    height: auto;
+}

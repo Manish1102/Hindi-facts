@@ -1,0 +1,87 @@
+
+
+    h1{
+        text-align: center;
+        padding:3px;
+        background-color: aqua;
+        box-shadow: 7px 6px 6px gray;
+        border: 3px solid rgb(0, 0, 0);
+        border-radius: 20px;
+    }
+    h1:hover{
+        color: rgb(236, 6, 6);
+        font-size: 210%;
+    }
+
+    #box{
+        font-size: 1.6vw;
+        border: 3px solid rgb(0, 0, 0);
+        background-color: aquamarine;
+        border-radius: 10px;
+        box-shadow: 4px 5px 10px 10px rgb(88, 87, 87);
+        padding: 10px;
+        margin: 1vw;
+    }
+    .fact1 {
+      width: 11vw;
+      background-color: white !important;
+        border: 2px solid black;
+        border-radius: 8px;  
+        padding: 4px 10px 4px 10px; 
+        text-align: center;
+        color: rgb(0, 143, 245) ;    
+        margin: 5px;
+        box-shadow: 3px 4px 10px 1px rgb(63, 63, 63);
+
+    }
+    p#fact1{
+        font-size: 2.9vw;
+        font-weight: 700;
+        margin: 5px;
+
+    }
+    p#fact1:hover{
+        color: brown;
+        font-size: 3vw;
+    }
+
+#topic{
+    font-size: 2vw;
+    background-color: bisque;
+    padding: 10px;
+    font-weight: 500;
+    border:1px solid wheat ;
+    border-radius: 9px;
+}
+
+.fact1:hover{
+
+    font-size: 30px;
+    color:green
+}
+img{
+    width: 1000px;
+   
+
+
+}
+
+footer{
+    font-size: 2.8vw;
+    color: white;
+    background-color: rgb(28, 27, 27);
+    padding: 10px ;
+    border: 3px solid rgb(13, 255, 0);
+    border-radius: 7px;
+    text-align: center;
+    margin: 2px;
+    box-shadow: 5px -4px 20px 10px rgb(62, 61, 61);
+
+
+}
+
+a{
+    text-decoration: none;
+    color: aqua;
+    font-size: 3vw;
+}
