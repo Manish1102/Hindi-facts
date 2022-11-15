@@ -25,27 +25,34 @@ background-color: #556ff7;
         margin: 1vw;
     }
     .fact1 {
-      width: 11vw;
+        font-size: 2.5vw;
+      width: 12vw;
       background-color: white !important;
         border: 2px solid black;
-        border-radius: 8px;  
+        border-radius: 5px;  
         padding: 4px 10px 4px 10px; 
         text-align: center;
-        color: rgb(0, 143, 245) ;    
+        color: black ;    
         margin: 5px;
-        box-shadow: 3px 4px 10px 1px rgb(63, 63, 63);
+        box-shadow: 1.4px 1px 13px 0.2px rgb(63, 63, 63);
 
     }
+    .fact1:hover{
+
+        font-size: 3vw;
+        color:#2d4ef5;
+    }
+
     p#fact1{
         color: #556ff7;
-        font-size: 2.9vw;
+        font-size: 2.5vw;
         font-weight: 700;
         margin: 5px;
 
     }
     p#fact1:hover{
         color: rgb(253, 255, 253);
-        font-size: 3vw;
+        font-size: 2.7vw;
     }
 
 #topic{
@@ -58,11 +65,7 @@ background-color: #556ff7;
     border-radius: 9px;
 }
 
-.fact1:hover{
 
-    font-size: 30px;
-    color:rgb(19, 244, 19)
-}
 img{
     width: 1000px;
    
