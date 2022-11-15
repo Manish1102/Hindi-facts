@@ -3,22 +3,22 @@
     h1{
         text-align: center;
         padding:3px;
-        background-color: aqua;
+background-color: #3778a7;     
         box-shadow: 7px 6px 6px gray;
         border: 3px solid rgb(0, 0, 0);
         border-radius: 20px;
     }
     h1:hover{
-        color: rgb(236, 6, 6);
+        color:#a1e1fa;
         font-size: 210%;
     }
 
     #box{
         font-size: 1.6vw;
         border: 3px solid rgb(0, 0, 0);
-        background-color: wheat;
+        background-image: linear-gradient(#3778a7, #a1e1fa);
         border-radius: 10px;
-        box-shadow: 4px 5px 10px 10px rgb(88, 87, 87);
+        box-shadow: 2px -3px 20px 8px rgb(88, 87, 87);
         padding: 10px;
         margin: 1vw;
     }
@@ -41,13 +41,13 @@
 
     }
     p#fact1:hover{
-        color: brown;
+        color: rgb(20, 21, 20);
         font-size: 3vw;
     }
 
 #topic{
     font-size: 2vw;
-    background-color: bisque;
+    background-color: #a1e1fa;
     padding: 10px;
     font-weight: 500;
     border:1px solid wheat ;
@@ -79,6 +79,15 @@ footer{
 
 
 }
+.button{
+    color: rgb(15, 10, 1);
+    background-image: linear-gradient(red, yellow);
+     margin: 80%;
+     padding: 3px 5px 3px 5px;
+     border: 2px solid black;
+     text-align: center;
+     
+ }
 
 a{
     text-decoration: none;
